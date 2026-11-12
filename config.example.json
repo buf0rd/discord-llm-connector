@@ -1,0 +1,20 @@
+{
+  "discord_token": "",
+  "channel_ids": [],
+  "user_ids": [],
+  "admin_ids": [],
+  "backend": "ollama",
+  "base_url": "http://127.0.0.1:11434",
+  "model": "",
+  "api_key": "",
+  "search_provider": "tavily",
+  "tavily_api_key": "",
+  "searxng_url": "",
+  "timeout_seconds": 180,
+  "max_tokens": 2048,
+  "cooldown_seconds": 5,
+  "max_concurrent": 1,
+  "search_result_count": 5,
+  "search_timeout_seconds": 30,
+  "system_prompt": "Be direct. Be useful. Stick to what you can support. Say when you do not know."
+}
